@@ -4,7 +4,7 @@ metadata:
   annotations:
     kubernetes.io/ingress.class: nginx
     nginx.ingress.kubernetes.io/rewrite-target: /$2
-  name: bookinfo-dev-deatails
+  name: bookinfo-dev-details
   namespace: student29-bookinfo-dev
 spec:
   rules:
